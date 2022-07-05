@@ -32,7 +32,9 @@ h3 {
 }
 
 .discord {
-  animation: rainbow 1s infinite;
+  animation-name: rainbow;
+  animation-duration: 1s;
+animation-iteration-count: infinite;
 }
 
 /* Rainbow | taken from mehf's website, sorry. */
