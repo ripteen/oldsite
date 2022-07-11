@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Fira+Mono&display=swap");
+@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/cascadia-code.min.css");
 
 .container,
 body,
@@ -15,7 +15,7 @@ html {
 }
 
 .box {
-  font-family: "Fira Mono", monospace;
+  font-family: 'Cascadia Code', sans-serif;
   margin: auto;
 }
 
@@ -25,10 +25,10 @@ a {
 }
 
 h3 {
-  font-family: "Comic Sans MS", sans-serif;
+  font-family: 'Cascadia Code', sans-serif;
   font-size: 38px;
   color: #ececec;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 
 .discord {

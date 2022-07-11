@@ -12,7 +12,7 @@
     },
     {
       "source": "/donate",
-      "destination": "https://ko-fi.com/ignaa"
+      "destination": "https://paypal.me/verifiedRetard"
     }
   ],
   "headers": [
@@ -21,7 +21,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self' fonts.googleapis.com fonts.gstatic.com igna.design"
+          "value": "default-src 'self' cdn.jsdelivr.net sa.igna.ooo"
         }
       ]
     }
