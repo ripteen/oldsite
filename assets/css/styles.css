@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Fira+Code&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fira+Mono&display=swap");
 
 .container,
 body,
@@ -15,7 +15,7 @@ html {
 }
 
 .box {
-  font-family: "Fira Code", monospace;
+  font-family: "Fira Mono", monospace;
   margin: auto;
 }
 
@@ -25,15 +25,15 @@ a {
 }
 
 h3 {
-  font-family: "Comic Sans MS", "Comic Sans", cursive;
-  font-size: 42px;
+  font-family: "Comic Sans MS", sans-serif;
+  font-size: 38px;
   color: #ececec;
   letter-spacing: 2px;
 }
 
 .discord {
   animation-name: rainbow;
-  animation-duration: 1s;
+  animation-duration: 3s;
   animation-iteration-count: infinite;
 }
 
@@ -234,6 +234,7 @@ h3 {
   96% {
     color: #e87d97;
   }
+
   98% {
     color: #e87d8a;
   }
