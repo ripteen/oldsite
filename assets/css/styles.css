@@ -15,7 +15,7 @@ html {
 }
 
 .box {
-  font-family: 'Cascadia Code', sans-serif;
+  font-family: 'Cascadia Code', monospace;
   margin: auto;
 }
 
@@ -24,16 +24,16 @@ a {
   color: #ececec;
 }
 
-h3 {
-  font-family: 'Cascadia Code', sans-serif;
-  font-size: 38px;
+p {
+  font-family: 'Cascadia Code', monospace;
+  font-size: 39px;
   color: #ececec;
-  letter-spacing: 1px;
+  letter-spacing: 3px;
 }
 
-.discord {
+.rainbow {
   animation-name: rainbow;
-  animation-duration: 3s;
+  animation-duration: 1s;
   animation-iteration-count: infinite;
 }
 
