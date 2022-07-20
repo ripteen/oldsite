@@ -3,8 +3,8 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/bye",
-      "destination": "https://paste.gg/p/ilyIgnacio/145dc8fb4e9444aeb3edad232df54cce"
+      "source": "/",
+      "destination": ""
     }  ],
   "headers": [
     {
