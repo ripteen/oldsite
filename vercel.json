@@ -3,8 +3,8 @@
   "trailingSlash": false,
   "redirects": [
     {
-      "source": "/",
-      "destination": ""
+      "source": "/discord",
+      "destination": "https://discord.com"
     }  ],
   "headers": [
     {
