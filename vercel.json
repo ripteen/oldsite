@@ -4,7 +4,15 @@
   "redirects": [
     {
       "source": "/discord",
-      "destination": "https://discord.com"
+      "destination": "https://discord.com/users/997930901776371782"
+    },
+    {
+      "source": "/bot",
+      "destination": "https://shiro.wtf"
+    },
+    {
+      "source": "/donate",
+      "destination": "https://paypal.me/verifiedRetard"
     }
   ],
   "headers": [
@@ -13,7 +21,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "object-src 'none'; script-src 'self' sa.igna.ooo; base-uri 'none';"
+          "value": "default-src 'self' sa.igna.ooo"
         }
       ]
     }
