@@ -5,14 +5,15 @@
     {
       "source": "/discord",
       "destination": "https://discord.com"
-    }  ],
+    }
+  ],
   "headers": [
     {
       "source": "/(.*)",
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "object-src 'none'; script-src 'nonce-{random}' 'unsafe-inline' 'strict-dynamic' https: http: sa.igna.ooo; base-uri 'none';"
+          "value": "object-src 'none'; script-src 'self' sa.igna.ooo; base-uri 'none';"
         }
       ]
     }
