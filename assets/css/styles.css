@@ -1,3 +1,8 @@
+/*
+* yeah, I know this is a bit of a mess. but I don't care.
+* feel free to contribute @ github.com/tcrms/igna.wtf
+*/
+
 @font-face {
   font-family: "Cascadia Code";
   src: url(../fonts/CascadiaCode-Regular.woff) format("woff"),
@@ -22,7 +27,7 @@ html {
   display: flex;
 }
 
-.box {
+.links {
   font-family: "Cascadia Code", monospace;
   margin: auto;
 }
@@ -54,7 +59,7 @@ h3 {
   animation-iteration-count: infinite;
 }
 
-/* Rainbow | taken from mehf's website, sorry. */
+/* Rainbow | copypasted from mehf's website, sorry. */
 @keyframes rainbow {
   0% {
     color: #e87d7d;
