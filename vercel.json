@@ -4,20 +4,16 @@
   "redirects": [
     {
       "source": "/discord",
-      "destination": "https://discord.com/users/997930901776371782"
+      "destination": "https://discord.com/users/1005198297939574896"
     },
     {
-      "source": "/bot",
-      "destination": "https://shiro.wtf"
-    },
-    {
-      "source": "/donate",
-      "destination": "https://paypal.me/verifiedRetard"
+      "source": "/steam",
+      "destination": "https://steamcommunity.com/id/yaxy"
     }
   ],
   "headers": [
     {
-      "source": "/(.*)",
+      "source": "/(.*).html",
       "headers": [
         {
           "key": "Content-Security-Policy",
