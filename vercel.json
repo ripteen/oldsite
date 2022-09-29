@@ -4,7 +4,7 @@
   "redirects": [
     {
       "source": "/discord",
-      "destination": "https://discord.com/users/1019357284947734590"
+      "destination": "https://discord.com/users/762255450245955614"
     },
     {
       "source": "/steam",
@@ -17,7 +17,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "default-src 'self' sa.igna.ooo"
+          "value": "default-src 'self'"
         }
       ]
     }
